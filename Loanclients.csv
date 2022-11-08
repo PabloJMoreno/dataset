@@ -1,0 +1,1001 @@
+Month,credit_amount,credit_term,Age,sex,education,product_type,having_children_flg,region,income,family_status,phone_operator,is_client,target
+10,7000,6,25,0,Secondary special education,1,0,0,21000,1,0,0,0
+10,19000,3,54,0,Secondary special education,3,1,1,17000,1,3,0,0
+1,29000,2,36,0,Secondary special education,1,0,2,31000,1,2,0,0
+11,10000,6,46,0,Secondary special education,0,1,1,31000,1,3,0,0
+4,14500,4,39,0,Higher education,1,0,1,26000,1,0,0,0
+5,32500,8,43,0,Secondary special education,0,0,1,26000,0,0,0,0
+7,8000,2,51,0,Higher education,1,0,1,21000,1,0,0,0
+1,20000,17,26,0,Higher education,0,0,2,33000,1,2,0,0
+8,26000,5,23,0,Secondary special education,0,0,1,31000,1,2,0,0
+10,15000,6,54,0,Secondary special education,2,1,1,26000,1,3,0,0
+11,30000,3,35,1,Secondary special education,1,1,2,18000,1,0,1,0
+5,30500,4,34,0,Secondary special education,0,1,1,21000,1,1,1,0
+9,37000,2,29,0,Secondary special education,2,1,1,51000,0,3,0,0
+5,37000,2,25,0,Higher education,1,0,1,71000,1,1,0,0
+4,29500,16,40,1,Higher education,0,0,1,16000,1,0,0,0
+10,28500,5,22,1,Higher education,1,0,1,36000,1,2,0,0
+2,22000,4,46,0,Secondary special education,0,0,2,,0,2,1,1
+5,13000,4,22,0,Higher education,1,0,1,19000,1,1,0,0
+12,51000,4,38,0,Secondary special education,0,0,1,21000,0,1,0,0
+6,13500,6,21,0,Incomplete higher education,0,0,1,21000,1,1,0,0
+9,10000,16,27,0,Secondary special education,1,1,0,21000,1,0,0,0
+2,30000,16,41,1,Secondary education,0,1,6,26000,1,2,0,1
+4,28000,6,35,0,Secondary special education,1,1,1,16000,1,2,0,0
+5,14000,6,50,1,Secondary special education,3,0,7,24000,1,1,1,1
+1,30000,7,29,0,Secondary special education,1,1,1,31000,1,0,1,0
+2,25000,9,33,0,Higher education,0,1,2,41000,1,1,1,0
+3,152000,11,51,0,Higher education,2,1,1,56000,1,2,0,0
+11,62000,3,31,0,Higher education,0,0,1,41000,1,3,0,0
+8,18500,16,31,0,Higher education,0,1,0,36000,0,0,0,0
+7,9500,14,41,0,Secondary special education,2,1,1,26000,0,1,0,0
+8,24500,16,27,0,Higher education,1,1,8,26000,0,0,0,1
+2,26000,17,32,0,Higher education,1,1,2,51000,1,3,1,0
+7,15000,4,32,0,Incomplete higher education,0,1,1,36000,1,2,1,0
+3,8500,5,56,0,Secondary education,2,1,1,19000,0,1,0,0
+6,12000,2,39,1,Secondary special education,0,0,1,21000,1,2,0,0
+1,17500,16,23,0,Incomplete higher education,0,0,0,,1,0,0,0
+11,17000,16,28,1,Secondary special education,2,0,2,22000,1,1,0,0
+2,18000,16,26,0,Secondary education,1,0,1,36000,1,1,0,0
+3,15000,16,41,1,Secondary special education,0,0,0,16000,1,0,0,0
+10,10500,2,22,0,Higher education,0,1,0,21000,1,1,1,0
+11,23500,5,31,0,Secondary special education,1,1,0,19000,1,1,0,0
+11,18000,4,25,0,Higher education,0,0,0,46000,0,0,0,0
+3,37500,16,47,1,Higher education,2,1,1,51000,0,1,0,0
+12,23500,5,29,0,Higher education,1,0,2,31000,1,1,1,0
+8,40500,2,25,1,Secondary special education,2,1,3,31000,1,2,0,0
+10,28500,5,33,0,Secondary special education,3,1,1,18000,1,1,0,0
+5,25500,16,36,1,Higher education,0,0,1,26000,1,0,0,0
+9,11000,3,28,0,Secondary special education,0,0,0,,1,2,1,0
+2,16000,9,26,0,Secondary special education,1,0,0,26000,1,1,0,0
+10,74500,7,42,1,Higher education,0,1,1,51000,1,0,0,0
+3,24000,16,26,1,Higher education,0,0,0,41000,1,1,0,0
+2,31000,5,32,1,Incomplete higher education,0,0,1,26000,0,0,0,0
+8,66500,6,31,0,Secondary special education,0,0,1,111000,1,0,0,0
+5,13000,3,38,0,Higher education,1,1,0,19000,1,1,1,1
+1,26500,16,28,0,Higher education,0,1,1,26000,1,1,0,0
+7,26500,14,21,0,Secondary special education,2,1,2,51000,1,0,0,0
+7,35000,3,47,0,Higher education,0,1,1,34000,0,1,0,0
+11,8500,9,23,0,Secondary special education,3,0,5,19000,1,3,1,1
+12,21000,5,25,1,Higher education,0,1,2,21000,1,0,0,0
+7,6500,4,23,0,Secondary special education,1,1,0,19000,1,2,0,0
+1,27000,5,21,0,Secondary special education,1,0,1,31000,1,0,0,0
+6,8000,2,49,1,Secondary education,0,0,1,,0,3,0,0
+11,43000,16,59,1,Secondary special education,0,1,0,19000,0,0,0,0
+4,7000,17,40,0,Secondary special education,0,1,2,16000,1,0,0,0
+1,15500,3,28,1,Secondary education,2,0,2,19000,1,1,0,0
+2,15000,2,21,0,Secondary special education,1,1,0,14000,1,2,0,0
+10,84500,2,34,0,Secondary special education,0,1,2,61000,1,1,0,0
+5,22000,5,20,1,Incomplete higher education,1,0,1,21000,1,1,0,0
+9,24000,16,23,0,Higher education,1,0,2,31000,1,3,0,0
+4,9000,17,33,0,Secondary education,2,0,0,31000,1,0,0,0
+11,35000,5,25,0,Higher education,1,1,1,11000,1,0,1,0
+5,8000,3,26,0,Secondary special education,2,0,1,16000,0,1,0,0
+9,15500,5,31,0,Secondary special education,0,0,2,51000,1,0,1,0
+7,23500,16,42,0,Higher education,2,0,2,16000,0,0,0,0
+3,36000,17,26,0,Higher education,1,0,0,,1,0,0,0
+1,34500,2,45,0,Secondary special education,2,1,1,81000,0,1,0,0
+2,5000,5,22,0,Secondary special education,0,1,1,31000,1,1,0,0
+3,9500,16,28,0,Secondary special education,0,0,2,31000,1,1,0,0
+12,29000,2,25,0,Higher education,0,0,1,46000,1,1,0,0
+2,17000,17,21,0,Secondary special education,0,0,0,21000,0,2,0,0
+7,50000,4,35,1,Secondary special education,0,0,2,21000,1,0,0,0
+10,11500,16,21,1,Secondary education,0,1,1,20000,1,2,0,0
+10,34500,4,50,0,Higher education,2,1,2,46000,0,0,0,0
+7,12000,7,28,1,Higher education,0,0,1,26000,1,1,0,0
+9,10500,5,46,0,Secondary special education,0,0,1,16000,0,1,0,0
+3,25000,2,30,1,Secondary special education,1,0,2,31000,1,1,1,0
+9,31000,3,25,1,Higher education,0,0,1,,1,2,0,0
+1,20500,17,31,0,Secondary special education,1,0,0,26000,1,2,1,0
+9,6000,3,51,0,Secondary special education,0,0,0,26000,1,1,1,1
+9,9000,4,21,0,Secondary special education,1,1,1,36000,1,0,0,0
+2,43000,17,51,0,Incomplete higher education,2,0,1,31000,1,3,0,0
+10,8000,8,57,1,Secondary special education,0,0,0,20000,1,1,0,0
+12,14000,3,25,0,Incomplete higher education,0,0,1,36000,1,3,0,0
+7,22500,13,29,0,Secondary special education,2,0,1,13000,0,1,0,0
+2,17500,7,41,1,Higher education,2,0,2,39000,0,2,0,0
+7,17500,3,44,1,Secondary special education,0,0,1,16000,1,0,0,0
+11,29500,3,32,0,Secondary education,2,0,7,,0,0,1,1
+4,50000,16,48,1,Secondary special education,2,0,1,21000,1,0,0,0
+1,31500,4,26,0,Secondary education,0,1,0,26000,1,1,0,0
+4,37000,3,37,1,Higher education,0,1,1,36000,0,0,0,0
+9,17000,8,44,0,Secondary special education,0,0,2,26000,1,0,0,0
+12,11000,7,26,1,Secondary special education,1,1,1,31000,1,1,1,0
+10,19500,3,57,0,Higher education,3,0,1,28000,1,2,0,0
+4,41000,5,32,0,Higher education,0,1,1,26000,1,0,0,0
+11,11000,6,23,0,Secondary special education,1,0,0,21000,1,0,0,0
+5,31000,16,37,0,Secondary special education,0,0,1,,1,1,0,0
+7,28000,5,24,1,Higher education,0,0,2,30000,1,1,0,0
+7,20500,8,33,0,Secondary special education,0,1,0,21000,0,0,0,0
+10,79000,4,24,0,Secondary special education,0,0,1,46000,1,2,0,0
+1,25000,16,36,0,Secondary special education,0,1,2,41000,1,0,1,0
+2,116000,3,36,1,Higher education,2,1,1,36000,0,3,0,0
+6,18500,11,45,0,Secondary special education,0,1,0,31000,0,1,0,0
+10,41000,2,32,1,Secondary special education,2,0,1,41000,0,3,0,0
+7,10000,2,24,0,Incomplete higher education,1,0,1,21000,1,1,0,0
+7,8000,4,46,0,Higher education,2,0,1,,0,3,0,0
+10,26500,16,41,0,Secondary education,2,0,2,26000,0,1,0,0
+1,36000,4,44,0,Higher education,0,1,1,31000,0,1,0,0
+3,29000,5,45,0,Secondary special education,0,0,2,31000,1,0,0,0
+4,21000,3,54,0,Higher education,2,0,1,26000,1,1,0,0
+5,31000,13,28,0,Higher education,1,0,1,36000,1,3,1,0
+11,14500,7,31,1,Incomplete higher education,0,0,1,16000,1,0,0,0
+4,20000,16,47,0,Secondary education,0,1,1,21000,0,0,0,0
+1,13500,2,60,0,Higher education,2,0,0,26000,1,1,0,0
+1,6500,9,39,0,Secondary special education,0,0,1,26000,1,0,0,0
+2,26000,8,34,1,Secondary special education,0,0,0,,1,2,0,1
+1,8000,4,48,0,Secondary education,2,0,1,21000,0,0,0,0
+7,48000,3,27,1,Higher education,1,1,1,26000,1,1,1,0
+7,30500,4,35,0,Secondary special education,0,0,1,26000,0,2,0,0
+7,31500,4,45,1,Secondary special education,0,0,2,42000,1,1,0,0
+5,29500,9,47,0,Secondary special education,0,0,0,23000,0,1,0,0
+10,53500,3,30,0,Higher education,0,0,2,21000,1,1,0,0
+2,37000,8,43,0,Higher education,2,0,1,51000,0,1,0,0
+9,43000,16,27,0,Secondary special education,0,0,1,29000,1,2,0,0
+1,18000,4,22,1,Secondary education,1,1,1,,1,0,0,0
+10,30000,6,34,0,Secondary special education,0,0,0,41000,0,2,0,1
+3,26500,2,54,0,Higher education,3,0,1,29000,1,1,0,0
+2,35500,7,44,1,Higher education,0,0,1,51000,1,2,0,0
+2,17500,7,58,0,Secondary special education,2,1,1,31000,1,0,0,0
+4,10500,4,27,0,Secondary special education,1,0,2,21000,1,2,1,0
+1,16000,2,42,0,Secondary special education,2,0,0,21000,1,1,0,0
+2,8500,2,24,0,Secondary special education,3,0,0,36000,1,2,1,1
+11,14500,16,37,0,Secondary special education,2,1,1,,1,1,0,0
+12,31000,9,54,0,Secondary special education,2,0,1,10000,2,1,1,1
+1,13500,16,38,0,Secondary special education,0,1,1,13000,1,1,1,0
+6,15000,15,57,0,Secondary special education,2,1,2,21000,0,3,0,0
+7,9500,3,40,0,Secondary education,0,1,0,14000,0,0,0,0
+5,35500,5,22,0,Higher education,1,0,1,41000,1,1,0,0
+3,11000,16,57,0,Higher education,4,1,2,26000,1,1,0,0
+4,34000,16,28,0,Higher education,1,1,2,24000,1,1,1,0
+4,11000,2,50,0,Secondary special education,4,0,2,,1,1,0,0
+9,20500,5,48,0,Secondary special education,2,0,1,26000,0,1,0,0
+11,9000,6,30,0,Secondary special education,1,0,1,19000,1,0,1,0
+3,20000,11,24,0,Higher education,0,0,2,31000,1,1,0,0
+4,57000,16,21,0,Higher education,1,0,1,46000,1,2,0,0
+1,38000,2,24,0,Secondary special education,0,1,2,16000,1,3,0,0
+5,10000,4,60,0,Higher education,2,0,0,24000,1,1,0,0
+7,34000,7,29,0,Secondary special education,1,1,2,,1,1,0,0
+7,22000,4,27,0,Secondary special education,0,0,7,24000,1,1,0,1
+4,11000,16,36,0,Secondary education,0,1,1,46000,1,1,1,0
+1,32500,17,49,0,Higher education,0,1,0,51000,1,3,0,0
+8,18000,16,25,0,Higher education,2,1,2,61000,1,0,0,0
+8,11000,16,22,1,Secondary special education,1,0,0,24000,1,1,0,0
+7,32500,2,45,0,Secondary special education,2,0,8,13000,1,2,1,1
+10,43500,16,47,0,Higher education,1,0,1,16000,1,1,0,0
+3,19500,3,39,0,Higher education,2,1,0,21000,1,2,0,0
+8,53500,7,39,0,Secondary education,2,1,2,,1,2,0,0
+2,165000,3,29,0,Secondary special education,2,0,2,51000,1,3,0,0
+9,33000,4,37,1,Secondary education,1,1,0,26000,1,1,0,0
+5,12500,5,29,0,Secondary education,0,1,2,13000,1,3,0,0
+11,14000,4,46,0,Secondary special education,2,1,0,12000,0,1,1,1
+7,20000,16,20,1,Secondary education,0,0,0,15000,1,3,0,0
+1,6500,3,47,0,Secondary special education,2,1,1,26000,0,1,0,0
+10,12500,4,46,0,Secondary education,0,1,1,11000,1,1,0,0
+8,22500,3,40,1,Secondary special education,0,0,1,25000,1,0,0,0
+7,13500,4,30,0,Higher education,2,0,1,21000,1,0,0,0
+10,25500,16,49,0,Incomplete higher education,2,0,1,23000,0,1,0,0
+12,18500,4,40,0,Secondary special education,0,1,1,,1,1,0,0
+7,46500,4,23,0,Higher education,1,0,1,71000,1,0,0,0
+1,22500,7,28,0,Secondary special education,0,1,0,7000,0,1,0,0
+4,54000,4,35,0,Higher education,1,0,1,101000,1,3,0,0
+12,14000,7,29,0,Secondary special education,0,1,1,21000,1,3,0,0
+7,30000,3,60,0,Secondary education,3,0,1,31000,1,1,0,0
+5,35000,5,49,0,Secondary special education,0,0,0,61000,0,2,0,0
+7,76000,9,40,0,Higher education,0,1,0,61000,0,0,0,0
+2,24500,4,35,0,Higher education,0,0,1,27000,0,1,0,0
+9,25000,16,27,0,Secondary special education,0,1,1,36000,1,1,0,0
+4,37500,9,43,0,Secondary special education,0,0,1,26000,1,0,0,0
+6,21000,2,30,0,Secondary special education,2,0,1,24000,0,0,0,0
+11,31500,10,37,0,Secondary education,0,0,1,31000,1,2,0,0
+6,38500,4,22,0,Higher education,0,0,1,,1,0,0,0
+9,31000,3,20,0,Secondary special education,1,1,5,33000,1,0,0,1
+4,5000,3,26,0,Secondary special education,1,1,0,26000,1,1,0,0
+3,190500,17,60,1,Secondary special education,2,0,1,171000,1,1,0,0
+7,7500,4,21,1,Secondary education,0,1,1,13000,1,0,0,0
+2,22500,4,36,0,Secondary special education,1,1,1,26000,1,0,0,0
+3,21000,10,33,1,Secondary education,1,0,1,21000,1,2,0,0
+8,21000,16,66,0,Higher education,2,0,0,41000,1,3,0,0
+2,52500,17,20,0,Higher education,0,0,1,,1,3,0,0
+5,27500,4,21,1,Secondary education,2,0,3,29000,1,0,0,0
+1,41000,6,34,0,Incomplete higher education,2,0,1,61000,1,1,0,0
+5,7000,16,55,0,Secondary education,1,0,2,18000,1,0,1,0
+5,8000,8,25,0,Secondary special education,0,0,1,14000,1,1,0,0
+7,10000,3,39,0,Higher education,2,1,0,21000,1,0,0,0
+3,12000,3,36,0,Secondary special education,0,0,1,29000,1,1,0,0
+5,29000,16,41,0,Higher education,0,0,2,56000,1,1,0,0
+6,15000,9,26,0,Secondary education,2,0,2,10000,1,3,0,0
+1,15000,16,39,0,Higher education,0,0,0,26000,1,1,0,0
+5,21500,3,27,0,Secondary special education,1,1,0,,1,1,0,0
+4,20000,4,32,0,Secondary special education,0,1,1,36000,1,3,0,0
+9,14500,8,47,0,Secondary special education,0,1,1,26000,1,0,0,0
+6,10500,4,41,0,Secondary special education,0,0,1,31000,0,0,0,0
+3,32000,16,23,1,Higher education,0,1,1,15000,1,2,0,0
+6,15500,8,25,0,Secondary education,1,0,0,26000,1,0,0,0
+5,30500,5,29,0,Higher education,0,1,2,21000,1,2,0,0
+10,45000,2,36,0,Secondary education,1,1,1,29000,1,1,0,0
+7,69000,2,48,0,Higher education,0,0,7,26000,2,1,1,1
+11,16500,3,37,0,Higher education,1,1,1,22000,1,0,1,0
+5,14500,16,29,1,Secondary special education,0,1,1,,1,0,0,0
+8,37000,3,21,1,Higher education,0,1,0,101000,0,1,1,1
+1,10000,5,21,0,Incomplete higher education,0,1,1,19000,1,0,0,0
+12,37500,5,32,0,Secondary education,2,0,1,16000,0,0,0,0
+4,10000,3,48,1,Secondary special education,0,0,1,36000,1,1,0,0
+5,12500,3,35,1,Higher education,0,1,1,23000,1,2,0,0
+10,22500,2,20,0,Secondary special education,1,0,1,,1,0,0,0
+2,144500,8,30,0,Higher education,0,0,0,81000,0,1,0,0
+5,5500,17,40,1,Secondary special education,0,1,1,31000,1,1,0,0
+11,19500,17,34,0,Higher education,0,1,2,21000,1,2,0,0
+9,16000,5,32,1,Higher education,2,0,8,35000,2,1,0,1
+2,15500,10,24,0,Higher education,0,1,0,26000,1,2,0,0
+10,21000,4,21,0,Secondary special education,0,0,2,30000,1,1,0,0
+1,21000,2,36,1,Secondary special education,2,1,2,16000,1,1,0,0
+7,199000,17,36,1,Higher education,1,0,2,61000,1,1,1,0
+2,36000,14,40,0,Secondary special education,3,1,1,21000,1,1,1,1
+2,6500,16,31,0,Secondary special education,1,1,1,,1,1,1,0
+7,37500,16,58,1,Higher education,2,1,1,13000,1,0,0,0
+5,48000,4,48,0,Secondary special education,1,1,1,18000,1,0,0,0
+8,29000,16,30,0,Secondary special education,0,0,0,31000,0,1,0,0
+9,6500,6,35,0,Higher education,0,1,0,16000,0,1,0,0
+7,87000,6,42,0,Secondary special education,0,1,0,26000,0,3,0,0
+9,29500,5,30,1,Higher education,0,0,1,16000,1,1,0,0
+2,22500,2,32,1,Higher education,0,1,0,21000,1,2,1,1
+5,27500,10,24,1,Incomplete higher education,0,1,0,36000,1,2,0,0
+5,14000,5,21,0,Higher education,0,1,0,51000,0,2,0,0
+4,60000,6,35,0,Higher education,2,0,1,36000,0,1,0,0
+4,8000,16,32,1,Secondary special education,1,1,1,,1,1,0,0
+6,32500,5,22,0,Higher education,0,1,1,23000,1,1,0,0
+7,11000,2,29,0,Incomplete higher education,2,1,2,20000,1,1,0,0
+10,23500,14,34,1,Secondary special education,0,1,1,,0,1,0,0
+6,29000,4,31,0,Secondary education,1,0,2,31000,1,1,0,0
+3,11000,2,40,0,Secondary special education,1,1,0,21000,1,0,0,0
+7,13000,16,42,0,Secondary special education,2,0,2,31000,1,3,0,0
+5,33500,8,21,1,Higher education,1,0,1,41000,1,0,0,0
+12,6500,8,41,0,Secondary special education,0,1,0,21000,0,3,0,0
+12,8000,17,52,0,Higher education,0,0,1,31000,0,1,0,0
+12,40500,6,33,0,Secondary education,0,1,1,,1,0,0,0
+7,14500,5,36,1,Secondary special education,1,0,1,26000,1,1,0,0
+5,9000,4,23,0,Higher education,0,1,2,26000,1,1,0,0
+1,10500,12,39,0,Secondary special education,1,1,1,24000,1,0,0,0
+7,29500,7,41,0,Secondary special education,2,0,0,26000,1,1,0,0
+2,28000,4,55,0,Secondary special education,3,0,1,71000,1,0,0,0
+3,28000,2,41,1,Incomplete higher education,2,1,1,,0,1,0,0
+12,23500,2,67,0,Secondary special education,2,1,1,65000,1,0,0,0
+12,12500,10,21,0,Higher education,1,1,0,18000,1,0,0,0
+1,148000,3,45,1,Secondary special education,2,1,1,31000,1,3,0,0
+7,20000,5,21,0,Higher education,2,1,2,26000,1,0,0,0
+4,40000,6,23,0,Secondary special education,1,0,1,41000,1,1,0,0
+12,22000,16,38,0,Secondary special education,2,1,1,,0,2,0,0
+2,21000,16,36,0,Higher education,1,0,1,16000,1,0,0,0
+1,12500,3,46,1,Secondary education,2,1,1,21000,1,1,0,0
+9,35500,4,24,1,Secondary special education,0,1,1,21000,1,1,0,0
+10,164000,17,61,0,Higher education,3,1,1,,1,0,0,0
+9,22000,16,35,0,Higher education,2,1,1,23000,0,1,0,0
+8,28000,6,43,0,Secondary education,2,0,1,51000,0,0,0,0
+10,22000,6,30,1,Secondary special education,0,1,1,41000,1,0,0,0
+7,20000,6,36,0,Incomplete higher education,0,0,2,21000,1,1,1,0
+1,7000,2,45,0,Secondary education,0,0,2,46000,1,2,0,0
+5,16000,3,36,0,Secondary special education,2,0,1,31000,0,1,0,0
+7,12500,7,22,0,Secondary education,1,1,7,19000,2,2,0,1
+4,18000,16,29,1,Higher education,1,0,1,36000,1,0,1,0
+12,16000,5,47,0,Secondary special education,3,1,1,,1,3,0,0
+7,23000,4,20,0,Secondary special education,0,0,1,29000,1,2,0,0
+4,44000,2,32,0,Secondary special education,2,0,2,26000,1,0,0,0
+3,14500,3,23,1,Secondary special education,1,0,1,21000,1,0,0,0
+8,16000,16,52,0,Secondary education,3,0,1,36000,1,0,0,1
+1,17500,3,37,0,Secondary special education,1,1,1,28000,1,2,0,0
+9,19000,8,23,1,Higher education,1,1,0,31000,1,3,0,0
+8,133000,5,20,0,Secondary education,1,1,1,51000,1,0,0,0
+9,24500,6,32,0,Higher education,2,0,2,,0,1,0,0
+9,27500,4,29,0,Higher education,0,0,0,41000,1,0,1,0
+12,19500,2,33,1,Incomplete higher education,0,0,0,31000,0,2,0,0
+2,29000,17,50,1,Secondary special education,0,0,7,51000,1,0,1,1
+1,22000,2,28,0,Secondary special education,0,0,1,20000,1,1,0,0
+2,17000,5,36,0,Secondary special education,2,1,1,16000,0,0,0,0
+11,30000,5,33,0,Secondary special education,2,1,1,,0,1,0,0
+1,27000,16,47,1,Secondary special education,0,1,1,16000,1,1,0,0
+12,31000,17,55,0,Secondary special education,2,0,1,31000,1,0,0,0
+5,11500,16,45,1,Secondary special education,0,0,7,21000,2,1,1,1
+12,25000,13,27,1,Secondary special education,0,1,1,46000,1,0,0,0
+11,17500,5,28,1,Incomplete higher education,1,0,1,21000,1,2,0,0
+6,22000,8,37,0,Secondary special education,0,1,1,20000,1,1,0,0
+4,9500,2,54,0,Secondary special education,0,0,2,19000,0,1,0,0
+2,13000,3,45,0,Secondary education,1,1,0,26000,0,2,0,0
+2,6000,16,34,1,Secondary special education,1,1,0,23000,1,3,0,0
+9,7000,2,43,0,Secondary special education,0,1,1,,1,0,0,0
+4,25000,5,35,0,Secondary special education,1,1,1,46000,1,1,1,0
+9,24500,2,31,0,Higher education,1,1,1,61000,1,2,0,0
+3,8500,12,52,1,Secondary special education,2,1,0,26000,1,3,0,0
+7,19500,7,33,0,Secondary special education,1,0,1,18000,1,0,0,0
+5,10500,10,29,1,Secondary special education,0,1,1,26000,1,0,0,0
+1,30000,3,24,0,Secondary special education,1,0,1,,1,2,0,0
+1,25000,4,33,0,Secondary special education,1,0,1,21000,1,1,1,0
+5,11000,4,58,0,Secondary special education,0,0,1,24000,0,2,0,0
+4,24000,16,26,0,Higher education,2,0,7,27000,0,3,1,1
+7,7500,8,32,0,Secondary special education,1,0,2,19000,1,1,1,0
+6,31000,2,22,0,Incomplete higher education,2,0,1,31000,1,2,0,0
+3,25000,16,34,0,Incomplete higher education,3,1,0,36000,1,1,1,1
+5,34000,7,35,0,Secondary special education,2,0,2,31000,1,1,0,0
+2,14000,4,24,1,Secondary special education,0,0,0,26000,1,2,0,0
+7,12000,16,21,1,Secondary special education,0,1,1,41000,1,0,0,0
+1,15000,16,29,0,Higher education,2,1,0,21000,0,0,1,1
+2,20500,6,37,1,Secondary special education,0,0,1,41000,1,2,0,0
+11,7500,6,30,1,Secondary special education,1,0,1,21000,1,2,0,0
+1,15500,6,28,0,Higher education,1,0,1,26000,1,1,0,0
+3,11000,5,39,0,Higher education,0,0,1,46000,1,1,0,0
+7,34000,6,46,0,Secondary education,1,0,2,16000,1,0,1,0
+7,18500,3,31,0,Incomplete higher education,0,1,1,81000,1,2,0,0
+2,97000,16,24,1,Higher education,0,1,1,29000,1,1,0,0
+10,5500,5,40,0,Secondary special education,0,0,1,19000,1,0,0,0
+1,10500,3,33,0,Higher education,0,1,1,51000,1,1,0,0
+9,20000,8,42,1,Secondary special education,0,0,2,26000,1,0,1,0
+3,18000,6,33,0,Secondary special education,2,0,1,26000,1,0,0,0
+3,19000,5,30,1,Secondary special education,1,1,2,27000,1,1,1,0
+3,20500,17,31,0,Secondary special education,2,1,2,21000,1,3,0,0
+8,25500,5,29,0,Secondary education,0,0,1,16000,0,1,0,0
+1,23000,3,67,1,Secondary special education,3,0,2,51000,1,1,0,0
+3,11000,16,36,0,Secondary education,1,1,1,11000,1,1,0,0
+8,40000,8,33,0,Secondary special education,1,0,1,61000,1,1,0,0
+6,38500,8,44,1,Higher education,2,0,2,26000,0,0,0,0
+7,16500,6,45,0,Secondary special education,2,1,8,16000,1,1,0,0
+7,27000,2,23,1,Higher education,0,0,1,41000,1,0,0,0
+5,15000,6,31,0,Secondary education,0,0,8,21000,2,0,0,1
+12,26500,7,28,1,Secondary special education,0,0,6,21000,1,0,0,1
+7,5500,2,53,1,Higher education,0,1,0,26000,1,1,0,0
+11,14000,16,33,0,Secondary special education,0,1,3,46000,1,1,1,0
+7,6000,17,32,0,Higher education,1,1,1,36000,1,2,1,0
+2,13000,15,31,0,Secondary special education,1,1,1,16000,1,4,0,0
+7,71000,9,34,0,Secondary special education,0,0,1,26000,1,0,1,0
+3,54000,16,24,0,Higher education,0,1,1,12000,1,1,0,0
+3,27500,16,46,0,Higher education,0,0,2,20000,1,0,1,0
+3,22500,7,38,0,Higher education,0,1,1,31000,0,1,0,0
+6,6500,3,31,0,Secondary special education,0,1,0,10000,0,1,0,0
+7,15000,2,42,0,Secondary special education,2,1,0,31000,1,1,0,0
+11,14500,6,35,0,Secondary special education,0,0,1,16000,1,3,0,0
+4,51000,6,23,0,Higher education,1,0,1,41000,1,2,1,0
+12,26000,16,38,1,Secondary special education,0,0,1,36000,1,0,0,0
+7,17000,6,47,0,Secondary special education,0,1,1,21000,1,2,1,0
+5,10000,17,36,0,Secondary special education,0,0,8,19000,1,3,1,1
+8,69000,3,38,0,Secondary special education,1,1,8,36000,1,0,1,1
+2,16500,6,42,0,Secondary special education,2,1,1,11000,0,0,0,0
+7,28000,5,23,0,Secondary special education,1,1,0,27000,1,1,0,0
+1,15000,4,53,0,Secondary special education,0,0,1,13000,1,0,1,0
+4,14000,16,38,1,Secondary special education,1,0,7,21000,1,2,1,1
+7,221000,17,36,0,Higher education,2,0,2,56000,1,0,0,0
+2,15500,17,22,0,Higher education,2,0,2,51000,0,2,0,0
+3,51500,6,46,0,Higher education,0,0,2,51000,1,0,0,0
+2,10000,2,26,0,Secondary special education,2,0,1,31000,1,1,0,0
+11,52000,16,31,1,Incomplete higher education,0,0,1,26000,1,1,0,0
+8,9500,2,44,0,Secondary special education,3,0,2,16000,1,1,0,0
+6,37000,17,54,0,Higher education,3,1,2,27000,1,3,0,0
+2,30000,5,29,1,Higher education,2,0,3,56000,1,0,0,0
+1,11000,17,33,1,Secondary special education,0,1,1,11000,1,1,0,0
+1,22500,2,36,0,Higher education,0,0,2,20000,1,0,0,0
+4,25500,16,44,0,Secondary special education,0,0,1,31000,0,0,0,0
+10,34000,16,25,1,Secondary special education,1,0,3,51000,1,0,1,0
+4,8000,6,22,0,Higher education,0,0,0,26000,1,0,0,0
+8,22000,3,22,0,Higher education,2,1,7,41000,1,1,1,1
+7,6000,6,32,0,Secondary special education,0,1,1,31000,1,3,0,0
+9,9500,4,29,0,Secondary special education,1,1,0,16000,1,2,0,0
+2,14500,4,27,0,Secondary special education,1,0,1,46000,1,1,0,0
+8,11500,16,43,0,Incomplete higher education,0,1,1,31000,1,1,0,0
+12,51500,2,38,0,Higher education,1,0,2,101000,1,1,1,0
+7,40000,8,49,0,Incomplete higher education,0,0,0,61000,1,0,1,1
+5,13000,5,56,0,Secondary special education,2,0,1,31000,1,0,0,0
+3,18000,7,33,1,Secondary special education,0,0,1,36000,1,2,1,0
+2,14000,16,49,0,Secondary special education,0,0,1,21000,1,2,0,0
+11,201000,16,54,0,Higher education,1,0,7,61000,1,1,1,1
+1,6000,4,33,0,Secondary special education,0,1,1,16000,1,0,0,0
+1,39000,12,34,0,Higher education,1,1,1,31000,1,3,1,0
+6,30000,9,38,0,Secondary special education,2,0,1,21000,1,0,0,0
+7,7500,2,65,1,Secondary special education,3,1,2,31000,1,1,0,0
+2,9500,5,26,1,Secondary special education,3,0,6,21000,1,1,0,1
+7,21000,17,36,0,Higher education,2,1,8,31000,1,3,1,1
+7,20000,16,34,0,Secondary special education,2,1,2,51000,0,4,0,0
+5,39000,2,27,1,Secondary special education,0,0,1,33000,1,1,0,0
+1,109000,6,31,1,Secondary special education,2,0,2,36000,1,1,0,0
+4,31500,4,68,1,Secondary special education,2,0,0,36000,1,2,0,0
+7,27000,6,39,0,Secondary special education,2,0,2,33000,0,1,0,0
+3,14000,6,20,0,Secondary special education,2,1,1,16000,0,1,0,0
+6,43000,3,27,0,Higher education,0,1,2,21000,1,3,0,0
+4,21000,16,45,0,Higher education,0,0,1,31000,1,1,0,0
+9,19500,7,23,0,Secondary special education,2,1,1,27000,0,2,0,0
+3,22000,17,30,0,Secondary education,0,1,2,26000,1,2,0,0
+3,16000,2,52,1,Higher education,3,1,2,51000,1,0,0,0
+7,15500,3,23,0,Incomplete higher education,0,1,7,21000,1,0,0,1
+6,95500,3,39,0,Secondary special education,1,1,2,26000,1,3,1,0
+1,24000,2,28,1,Secondary special education,0,0,1,26000,1,0,0,0
+9,31500,4,27,0,Secondary special education,0,1,1,31000,1,0,0,0
+8,44000,4,37,1,Secondary special education,2,1,1,81000,0,0,0,0
+2,8000,16,40,1,Secondary education,0,0,2,36000,1,3,0,0
+3,18000,5,50,0,Secondary special education,2,1,1,21000,1,0,0,0
+7,59000,4,24,1,Higher education,0,1,0,81000,0,3,0,0
+2,16000,6,27,0,Secondary education,0,0,0,14000,1,1,0,0
+4,15000,2,38,0,Higher education,1,1,0,31000,0,2,0,0
+3,10500,16,25,0,Secondary special education,0,1,1,36000,1,0,0,0
+2,11500,5,32,0,Secondary special education,1,1,1,26000,1,0,1,0
+9,22500,2,25,0,Incomplete higher education,0,1,0,16000,1,1,0,0
+4,73000,16,28,0,Higher education,2,0,1,41000,0,1,0,0
+8,24500,7,25,0,Secondary education,0,0,2,36000,1,1,0,0
+9,73000,13,20,0,Higher education,0,0,2,93000,1,0,0,0
+2,50000,2,32,1,Higher education,0,0,2,71000,1,2,1,0
+8,8500,3,46,0,Secondary special education,0,0,1,26000,1,0,0,0
+5,176000,17,44,0,Higher education,1,0,7,26000,1,0,1,1
+5,37500,4,23,0,Secondary special education,1,0,1,34000,1,3,0,0
+3,119000,4,36,0,Higher education,0,0,1,69000,1,2,0,0
+5,22000,5,22,0,Incomplete higher education,0,1,0,26000,1,2,0,0
+6,5000,7,46,1,Secondary special education,2,1,1,31000,1,2,0,0
+7,30500,16,25,1,Higher education,2,1,1,61000,0,1,0,0
+7,6000,9,52,0,Higher education,0,1,2,29000,1,0,0,0
+7,27500,2,38,1,Higher education,0,0,1,21000,1,1,0,0
+1,26500,3,24,0,Higher education,1,0,1,36000,1,3,0,0
+11,43500,6,29,0,Higher education,2,0,2,31000,1,0,0,0
+6,23000,5,28,0,Secondary education,1,0,2,19000,1,1,1,0
+2,85000,2,32,0,Secondary special education,0,1,2,19000,1,2,0,0
+12,21000,2,40,0,Higher education,3,0,2,21000,0,2,0,0
+2,25000,5,37,0,Incomplete higher education,0,0,1,36000,0,3,0,0
+7,41000,4,21,0,Secondary education,0,0,1,15000,1,0,0,0
+1,101000,17,38,1,Higher education,0,1,1,61000,0,0,0,0
+9,39000,5,71,0,Higher education,2,1,0,41000,1,0,0,0
+6,163000,8,37,0,Secondary special education,0,0,1,43000,1,1,0,0
+7,74000,3,43,1,Higher education,1,0,1,28000,1,0,0,0
+3,34000,3,26,1,Secondary education,1,0,0,26000,1,4,0,0
+5,23500,6,35,1,Higher education,0,0,1,26000,1,0,0,0
+7,32000,2,48,1,Secondary special education,0,1,1,33000,1,0,0,0
+7,15500,16,45,0,Secondary education,2,0,8,11000,0,2,0,1
+3,17500,8,32,1,Secondary special education,0,0,1,16000,1,0,0,0
+8,39500,4,35,0,Secondary special education,1,0,0,26000,1,0,1,0
+9,151000,7,31,0,Higher education,0,0,0,19000,1,2,0,0
+4,15000,2,25,0,Secondary special education,1,0,1,19000,1,1,0,0
+3,51000,3,30,0,Higher education,0,1,1,31000,1,0,0,0
+7,17500,17,37,0,Secondary special education,2,0,2,23000,1,0,0,0
+3,13500,2,29,0,Secondary education,1,1,6,31000,1,2,0,1
+5,21000,4,32,0,Secondary special education,0,0,1,21000,1,0,0,0
+3,57000,2,37,0,Higher education,0,1,2,56000,1,0,1,1
+9,24500,2,61,0,Higher education,3,1,1,26000,1,3,0,0
+2,15500,9,56,0,Incomplete higher education,2,1,2,61000,0,1,0,0
+11,56000,17,23,1,Secondary special education,1,0,0,31000,1,1,0,0
+9,22500,5,42,1,Secondary special education,2,1,1,71000,0,1,0,0
+3,31000,7,27,1,Secondary special education,0,0,2,13000,1,1,0,0
+7,12500,8,34,0,Secondary special education,0,0,1,26000,1,0,0,0
+5,93000,2,40,0,Higher education,0,0,2,36000,1,2,0,0
+9,7000,17,33,0,Incomplete higher education,2,0,1,38000,0,1,0,0
+1,8000,11,40,1,Higher education,0,0,0,26000,1,4,0,0
+5,12500,3,56,0,Secondary special education,2,0,2,21000,0,1,0,0
+6,25000,16,40,0,Secondary special education,0,0,0,26000,0,1,0,0
+3,29500,8,26,0,Secondary special education,0,0,2,26000,1,1,0,0
+1,51000,16,26,0,Secondary education,0,0,0,39000,1,3,0,0
+10,27500,17,40,1,Secondary special education,3,1,6,21000,1,0,0,1
+6,10500,9,22,1,Secondary special education,1,1,0,10000,1,1,0,0
+5,21500,6,43,1,Secondary special education,2,1,1,21000,1,1,0,0
+1,16500,3,24,0,Secondary special education,0,0,1,31000,1,0,0,0
+6,12000,3,36,0,Secondary education,1,0,0,14000,1,2,0,0
+12,21000,5,31,1,Higher education,2,1,2,25000,0,2,0,0
+6,5000,2,20,0,Secondary special education,2,1,2,11000,1,2,0,0
+7,20500,4,24,0,Secondary special education,2,0,1,41000,1,0,1,0
+9,31000,5,52,0,Secondary special education,3,1,2,48000,0,1,0,0
+7,17000,2,57,0,Secondary special education,1,1,1,26000,1,1,0,0
+3,16000,9,26,0,Secondary special education,0,0,2,26000,1,0,0,0
+5,5000,7,31,1,Secondary special education,0,1,1,22000,1,1,0,0
+1,13500,5,42,0,Higher education,0,1,1,61000,0,1,0,0
+6,16500,2,45,0,Secondary special education,2,0,1,26000,0,3,0,0
+8,20500,8,37,0,Secondary special education,1,1,0,33000,1,1,0,0
+7,49000,5,33,0,Higher education,0,0,1,151000,1,1,1,0
+12,24000,2,28,0,Secondary special education,1,0,1,26000,1,2,0,0
+1,30500,2,27,0,Higher education,2,1,2,36000,1,1,0,0
+5,11000,16,36,1,Secondary special education,0,1,0,26000,2,1,0,1
+7,8000,4,24,0,Higher education,1,1,1,29000,1,1,0,0
+5,17500,3,31,0,Secondary special education,0,1,1,31000,1,1,0,0
+1,12000,2,24,0,Higher education,0,0,1,31000,1,2,0,0
+8,18000,16,57,0,Secondary special education,0,0,1,10000,1,4,0,0
+8,26000,3,21,0,Secondary special education,0,0,1,18000,1,1,0,0
+12,20000,16,29,0,Higher education,2,1,8,36000,1,1,1,1
+9,39000,17,41,1,Higher education,0,1,1,41000,1,0,0,0
+12,19000,6,53,1,Secondary special education,0,0,0,31000,1,0,0,0
+8,12500,2,28,1,Incomplete higher education,2,0,1,22000,0,2,0,0
+6,24000,3,82,0,Higher education,0,0,1,18000,1,1,0,0
+2,21500,16,26,0,Secondary special education,0,0,1,27000,1,0,1,1
+6,5500,17,25,0,Secondary special education,2,1,2,17000,1,1,0,0
+2,103000,7,40,0,Secondary special education,2,0,1,18000,0,1,0,0
+1,71000,3,34,0,Secondary special education,1,0,0,37000,1,0,0,0
+9,26000,17,38,0,Secondary special education,0,0,1,36000,1,2,1,0
+2,9500,17,47,0,Higher education,0,1,0,13000,0,2,0,0
+4,9500,4,38,0,Secondary special education,2,0,2,19000,0,1,0,0
+6,28500,7,30,0,Higher education,1,1,2,36000,1,1,1,0
+10,28000,16,49,0,Secondary special education,0,0,1,43000,0,2,0,0
+7,22000,3,32,1,Secondary education,2,0,1,61000,1,4,0,0
+5,12000,2,43,0,Secondary education,2,1,2,13000,1,1,0,0
+1,9000,7,23,0,Secondary special education,1,1,1,16000,1,1,0,0
+6,8500,3,39,0,Secondary education,1,0,1,26000,1,0,0,0
+8,36500,6,48,0,Secondary special education,1,1,7,26000,2,3,1,1
+7,12000,7,44,0,Secondary education,0,0,0,31000,0,0,0,0
+4,12500,16,43,0,Secondary special education,2,1,1,21000,0,0,0,0
+5,23500,4,22,0,Secondary special education,0,0,1,31000,1,1,1,0
+2,10000,16,24,1,Secondary special education,2,1,2,14000,1,2,0,0
+4,21000,4,26,0,Higher education,0,1,2,26000,1,1,0,0
+10,8500,9,35,0,Secondary special education,1,0,2,2000,1,1,1,0
+1,20000,17,24,0,Secondary special education,1,0,1,36000,1,1,0,0
+12,14000,16,39,0,Secondary special education,1,0,2,27000,1,1,1,0
+6,14000,3,36,0,Higher education,0,1,0,26000,1,2,0,0
+9,9000,3,45,0,Higher education,3,0,1,19000,1,0,0,0
+9,32500,16,45,0,Incomplete higher education,3,0,0,121000,1,1,1,1
+3,15000,5,47,0,Secondary special education,2,1,1,28000,0,0,0,0
+9,30000,16,46,0,Higher education,0,1,1,81000,0,2,0,0
+2,9000,17,67,0,Higher education,2,1,1,26000,1,2,0,0
+3,30500,17,46,1,Higher education,2,0,1,101000,1,0,0,0
+5,76500,16,28,1,Secondary special education,1,1,1,61000,1,0,1,0
+7,12500,6,46,0,Secondary special education,2,1,2,18000,1,0,0,0
+6,25500,4,55,0,Higher education,0,0,1,14000,0,0,0,0
+2,9500,3,52,0,Higher education,0,1,0,26000,0,0,0,0
+10,15000,6,26,0,Higher education,0,0,1,81000,1,0,1,0
+5,10000,3,58,1,Secondary special education,2,1,0,41000,1,1,0,0
+7,22500,3,43,0,Secondary special education,2,0,1,16000,0,2,0,0
+8,23000,2,30,0,Secondary special education,1,0,1,71000,1,2,0,0
+5,15000,17,41,1,Secondary special education,3,0,1,11000,1,2,0,0
+2,34500,3,43,0,Secondary special education,0,1,0,76000,0,1,0,0
+4,14000,11,21,0,Secondary special education,0,0,0,18000,1,4,0,0
+5,9500,8,44,0,Higher education,0,1,1,36000,1,0,0,0
+8,27500,7,24,0,Secondary special education,0,0,1,22000,1,3,0,0
+4,25000,11,23,1,Secondary special education,0,1,7,21000,2,0,0,1
+11,13000,7,44,0,Secondary special education,1,0,0,16000,1,2,0,0
+10,23000,2,38,1,Secondary special education,2,0,1,34000,1,1,0,0
+1,11000,17,22,1,Higher education,0,1,1,21000,1,1,0,0
+12,9500,16,32,0,Secondary education,2,0,1,23000,1,3,0,0
+6,63500,16,28,0,Secondary special education,2,0,0,34000,0,0,1,1
+12,9500,17,37,0,Secondary special education,0,0,0,21000,0,1,0,0
+3,45000,16,49,0,Higher education,2,0,1,13000,0,2,0,0
+6,7000,2,23,0,Incomplete higher education,0,1,6,24000,1,1,0,1
+9,29000,14,22,0,Secondary special education,0,0,0,41000,1,1,0,0
+6,21000,5,24,1,Secondary education,1,0,1,61000,1,1,0,0
+1,20000,16,43,0,Secondary special education,2,1,1,41000,1,0,0,0
+4,18000,17,27,0,Secondary special education,2,1,1,31000,1,4,0,0
+2,36000,10,23,0,Secondary special education,1,1,1,21000,1,3,0,0
+2,13000,3,41,0,Secondary special education,3,0,7,26000,1,1,1,1
+1,68500,2,30,0,Higher education,1,0,1,31000,1,0,0,0
+8,21000,7,28,0,Secondary special education,0,0,1,81000,1,1,1,0
+6,15000,4,40,1,Higher education,1,0,0,31000,1,1,0,0
+7,13000,2,32,1,Secondary special education,3,1,2,19000,0,3,1,1
+1,14500,16,30,1,Secondary education,1,0,1,26000,1,2,0,0
+5,41500,7,47,1,Higher education,0,1,7,26000,1,3,1,1
+7,13000,5,24,0,Secondary special education,1,0,1,31000,1,2,0,0
+6,7000,2,52,0,Secondary special education,1,1,1,31000,1,0,0,0
+9,32000,11,29,1,Secondary education,1,0,0,25000,1,2,1,1
+7,8000,3,51,0,Secondary special education,2,1,1,21000,1,1,0,0
+10,24000,7,40,1,Secondary education,0,0,0,18000,1,1,1,1
+9,7000,2,41,0,Secondary education,0,1,0,21000,0,0,0,0
+10,37000,3,25,0,Higher education,0,0,1,41000,1,0,0,0
+11,35500,16,35,0,Incomplete higher education,1,0,0,56000,1,1,1,1
+2,5000,2,21,1,Secondary special education,0,1,2,41000,1,1,0,0
+5,58500,17,26,0,Secondary special education,1,0,1,26000,1,1,0,0
+8,27000,3,22,0,Secondary special education,3,0,2,31000,1,1,0,0
+12,7500,16,34,1,Secondary special education,0,1,2,39000,1,1,1,0
+6,20500,8,61,0,Secondary education,0,0,1,19000,0,3,0,0
+8,31000,17,24,0,Higher education,0,0,0,33000,1,1,1,0
+2,34000,16,29,0,Secondary education,3,0,8,31000,1,2,1,1
+1,31000,5,43,0,Secondary special education,2,0,1,10000,0,0,0,0
+5,7500,4,32,1,Higher education,2,1,1,23000,0,2,1,1
+8,73000,11,46,0,Higher education,2,0,0,171000,1,0,0,0
+3,21500,17,40,0,Higher education,1,1,0,14000,1,2,0,0
+6,15000,5,39,1,Secondary special education,0,0,1,28000,1,1,1,0
+9,28500,17,30,1,Secondary special education,1,1,1,41000,1,1,1,0
+5,15000,3,36,0,Higher education,2,1,1,18000,0,1,0,0
+7,21000,3,29,0,Incomplete higher education,1,0,0,51000,1,0,1,0
+11,141500,3,22,0,Secondary special education,1,1,1,46000,1,1,0,0
+9,26500,4,23,1,Secondary special education,2,0,0,26000,0,1,1,1
+2,24500,16,50,0,Secondary special education,2,0,0,38000,1,4,0,0
+4,44500,2,23,0,Incomplete higher education,3,0,2,21000,0,2,0,0
+11,11500,17,42,0,Secondary special education,2,1,1,13000,0,2,0,0
+6,7000,9,34,0,Secondary special education,0,0,0,34000,1,3,1,0
+12,31000,10,28,1,Higher education,0,0,2,41000,1,3,0,0
+1,38500,2,23,0,Incomplete higher education,0,0,2,31000,1,1,0,0
+4,20500,5,20,0,Secondary special education,1,1,0,24000,1,1,0,0
+4,51000,16,26,0,Secondary special education,1,0,0,21000,1,2,0,0
+3,23000,7,24,0,Higher education,1,0,2,31000,1,3,0,0
+6,26000,6,27,0,Secondary special education,0,0,1,26000,1,1,1,0
+2,22000,7,20,1,Secondary special education,1,1,1,46000,1,3,0,0
+12,18000,13,32,0,Secondary special education,1,0,1,21000,1,3,1,0
+11,9000,16,20,0,Secondary special education,0,0,1,36000,1,2,0,0
+10,16000,6,24,0,Secondary special education,0,1,1,20000,1,1,0,0
+2,13000,6,38,0,Secondary education,2,0,1,13000,1,1,0,0
+8,34000,6,32,0,Incomplete higher education,0,0,1,40000,1,0,1,0
+12,27000,4,26,1,Incomplete higher education,0,0,1,26000,1,1,0,0
+9,137000,4,45,0,Higher education,3,0,1,71000,1,1,0,0
+6,11500,3,27,0,Higher education,0,0,2,16000,1,1,0,0
+4,38000,6,25,1,Secondary special education,1,0,0,41000,1,0,0,0
+4,14500,3,39,1,Secondary special education,1,1,1,16000,1,1,0,0
+1,31000,6,27,0,Higher education,0,0,0,21000,1,3,0,0
+4,72500,3,40,0,Secondary special education,1,1,1,26000,1,0,0,0
+1,28000,6,24,0,Secondary special education,0,1,1,16000,1,1,0,0
+4,85500,2,29,1,Secondary special education,0,1,1,41000,1,1,0,0
+11,6500,3,47,0,Higher education,0,1,1,31000,0,2,0,0
+3,10000,4,39,0,Secondary special education,2,0,1,21000,0,1,0,0
+1,13500,17,23,1,Secondary special education,0,0,2,21000,1,0,0,0
+7,14000,3,32,1,Secondary education,1,0,1,46000,1,2,0,0
+10,59000,2,39,1,Higher education,3,0,8,31000,0,1,1,1
+6,13000,3,30,1,Secondary education,1,1,0,21000,0,0,0,0
+9,17000,5,39,0,Secondary special education,0,1,2,13000,1,2,1,0
+4,13500,17,43,1,Secondary special education,1,1,1,31000,1,2,1,0
+1,9000,5,37,0,Secondary special education,0,0,1,21000,1,1,0,0
+4,19000,4,46,0,Secondary special education,2,0,2,31000,0,1,0,0
+8,65500,3,26,0,Higher education,0,1,1,31000,1,0,0,0
+10,18500,3,43,0,Higher education,1,1,0,41000,1,1,0,0
+1,21500,5,25,0,Higher education,0,1,0,25000,1,2,1,0
+1,8000,4,29,1,Secondary education,0,0,6,21000,2,2,0,1
+4,25000,16,49,0,Higher education,3,0,1,51000,1,3,0,0
+8,42000,2,30,1,Secondary education,1,0,1,16000,1,1,0,0
+4,11000,17,26,0,Secondary special education,1,1,1,41000,1,0,1,0
+4,24000,8,38,1,Secondary special education,0,0,6,18000,1,0,1,1
+3,101000,16,38,1,Secondary special education,0,0,1,48000,1,3,0,0
+5,16000,7,32,0,Secondary special education,0,0,1,29000,1,0,0,0
+3,59000,3,28,1,Higher education,1,0,2,61000,1,0,1,0
+3,14500,7,29,0,Secondary special education,0,0,0,31000,1,2,0,0
+4,22500,8,24,0,Higher education,2,1,2,16000,1,3,0,0
+5,7000,6,45,0,Higher education,0,0,1,31000,1,1,1,0
+9,144000,3,27,1,Higher education,1,1,2,51000,1,3,0,0
+3,20500,12,23,0,Secondary special education,2,0,2,12000,1,3,0,0
+5,23000,10,30,0,Secondary special education,1,0,0,21000,1,4,0,0
+7,10000,3,42,0,Secondary special education,3,1,1,76000,0,0,0,0
+6,45000,16,26,0,Higher education,1,0,8,91000,1,3,0,1
+2,15000,16,21,0,Secondary special education,2,0,1,16000,1,3,0,0
+8,18000,16,22,0,Secondary special education,1,0,0,21000,1,1,0,0
+8,7500,17,50,0,Secondary special education,0,1,8,21000,1,0,0,0
+12,32000,2,25,1,Secondary special education,0,1,0,61000,1,0,0,0
+5,9500,16,45,0,Secondary special education,0,1,0,51000,0,1,0,0
+12,23000,3,21,0,Secondary education,1,0,1,13000,1,0,0,0
+7,12000,13,29,0,Secondary special education,1,0,1,13000,1,3,1,0
+2,29500,5,28,1,Secondary special education,2,1,2,16000,1,0,0,0
+9,14500,3,57,0,Secondary special education,3,1,1,11000,1,0,0,0
+6,14500,16,20,0,Secondary special education,1,1,1,40000,1,1,0,0
+2,15500,5,34,0,Secondary education,0,0,1,13000,1,1,1,0
+6,35000,4,52,1,Higher education,1,0,1,28000,1,0,0,0
+4,57000,4,55,0,Higher education,2,1,1,41000,0,0,0,0
+1,12000,4,22,0,Secondary special education,1,0,1,12000,1,0,0,0
+7,38000,3,33,0,Secondary education,0,0,2,18000,1,1,0,0
+2,27500,3,33,1,Secondary special education,0,0,0,31000,1,3,0,0
+1,11500,7,22,0,Secondary education,2,1,7,21000,0,0,1,1
+11,28500,3,42,1,Secondary special education,3,0,2,25000,1,2,0,0
+12,25000,5,46,0,Secondary education,2,1,1,26000,1,1,0,0
+5,6500,6,54,1,Secondary special education,2,1,1,26000,0,3,0,0
+3,18500,5,23,0,Incomplete higher education,0,0,1,21000,1,0,0,0
+3,41500,10,59,1,Secondary education,0,0,1,31000,1,0,0,0
+5,16500,16,36,0,Secondary special education,2,0,1,26000,1,0,0,0
+9,13500,17,30,0,Secondary special education,0,0,2,27000,1,0,0,0
+8,13000,5,33,1,Secondary special education,1,0,1,31000,1,3,1,0
+10,27500,4,45,0,Secondary special education,1,0,1,21000,1,1,0,0
+4,11000,16,52,0,Secondary education,2,1,1,36000,1,3,0,0
+2,9500,3,31,0,Secondary special education,4,1,8,14000,1,0,1,1
+10,17000,2,38,0,Higher education,0,1,2,21000,1,1,0,0
+5,15000,3,45,0,Secondary education,0,1,1,16000,0,1,0,0
+3,38500,8,43,0,Secondary special education,1,1,1,46000,1,1,1,0
+10,5500,4,20,0,Secondary special education,0,0,1,26000,1,2,0,0
+3,36000,11,54,0,Secondary special education,2,0,0,51000,1,0,0,0
+5,5000,5,38,0,Secondary special education,2,1,8,31000,1,2,1,1
+8,35500,6,46,1,Secondary education,3,1,0,16000,1,0,0,0
+5,12500,16,28,0,Secondary special education,4,1,0,31000,1,2,1,1
+4,24500,17,24,1,Secondary special education,1,1,0,26000,1,4,0,0
+5,17500,3,25,1,Secondary education,0,0,1,21000,1,3,0,0
+9,12000,7,38,1,Higher education,0,1,1,18000,1,1,1,0
+4,37500,4,50,1,Secondary special education,1,0,1,56000,1,1,0,0
+12,14000,16,47,1,Secondary special education,2,0,1,16000,0,0,0,0
+10,30500,6,23,0,Higher education,1,0,1,46000,1,2,0,0
+8,17000,17,27,0,Secondary special education,0,0,2,38000,1,0,0,0
+11,22500,2,53,0,Higher education,2,1,1,81000,0,2,0,0
+8,29000,5,26,0,Secondary education,0,1,1,16000,1,1,0,0
+1,7000,16,31,0,Secondary education,2,1,1,21000,0,2,0,0
+4,58500,2,37,1,Secondary special education,0,1,0,30000,1,0,0,0
+9,44000,4,21,0,Higher education,0,0,3,41000,1,1,0,0
+7,14500,4,31,0,Higher education,1,0,0,21000,1,1,0,0
+10,8000,2,28,1,Secondary education,0,0,1,16000,1,0,0,0
+3,166000,4,40,0,Higher education,2,1,1,71000,0,1,0,0
+12,36500,5,38,0,Secondary special education,1,1,1,26000,1,1,1,0
+6,10500,7,62,0,Higher education,1,0,2,33000,1,1,1,0
+2,131000,3,31,0,Secondary special education,2,0,2,39000,1,3,0,0
+3,53500,8,39,0,Higher education,2,1,7,26000,1,0,1,1
+7,18000,10,31,1,Secondary special education,0,1,1,18000,1,2,1,0
+11,19000,6,45,0,Secondary special education,0,0,0,26000,0,1,0,0
+2,21000,6,33,0,Secondary special education,0,0,1,41000,1,1,1,0
+9,44000,9,43,1,Secondary special education,2,0,1,23000,1,0,0,0
+10,31000,6,32,0,Higher education,0,0,0,37000,0,1,0,0
+1,38000,2,32,0,Higher education,1,0,1,39000,1,1,1,0
+4,19000,4,30,0,Secondary special education,0,0,8,26000,0,0,0,0
+3,10000,3,36,0,Secondary special education,2,1,1,23000,0,0,0,0
+2,41000,9,26,0,Secondary special education,1,1,1,26000,1,0,0,0
+11,19000,17,28,0,Higher education,2,0,2,33000,1,0,0,0
+10,9000,12,30,1,Secondary special education,0,1,1,15000,1,2,0,0
+4,40000,3,42,0,Secondary special education,0,0,2,18000,1,1,0,0
+1,123500,17,41,0,Secondary special education,1,0,2,26000,1,0,1,0
+6,30000,9,37,0,Secondary special education,0,1,6,33000,2,1,0,1
+1,9500,7,42,1,Higher education,1,0,8,51000,0,0,0,0
+5,55000,2,34,0,Secondary special education,2,0,1,44000,0,1,0,0
+6,18500,17,39,0,Secondary special education,0,0,0,25000,0,3,0,0
+9,80000,4,41,0,Secondary special education,0,1,1,21000,0,0,0,0
+5,12500,4,25,0,Higher education,2,1,1,31000,0,1,1,1
+5,16000,4,31,0,Secondary education,0,0,1,21000,1,3,1,0
+1,12000,12,26,1,Secondary special education,0,0,2,22000,1,0,0,0
+6,24500,7,31,0,Higher education,0,0,1,24000,1,0,0,0
+7,22500,4,27,1,Secondary special education,1,1,1,36000,1,1,0,0
+7,9000,4,23,0,Secondary special education,1,1,8,15000,1,2,0,1
+5,17500,3,20,0,Secondary education,0,1,1,31000,1,1,0,0
+8,6500,4,33,0,Secondary special education,2,0,0,28000,0,1,1,1
+8,22500,2,23,0,Higher education,2,0,0,21000,1,2,0,0
+3,78000,8,27,0,Higher education,0,0,0,71000,0,0,0,0
+2,13000,16,49,0,Higher education,2,0,1,41000,1,1,0,0
+11,12500,6,31,0,Higher education,1,1,0,17000,1,1,0,0
+9,51000,8,32,1,Higher education,0,0,0,32000,1,1,1,0
+5,18000,16,27,1,Higher education,1,0,5,41000,1,0,0,1
+11,34500,13,33,0,Secondary special education,0,0,2,31000,1,1,1,0
+4,13500,2,22,0,Secondary special education,0,0,1,19000,1,1,0,0
+2,20500,15,24,0,Secondary special education,3,1,1,16000,0,1,0,0
+8,28000,16,52,0,Higher education,1,0,1,26000,1,1,0,0
+1,17000,17,29,0,Secondary special education,1,0,1,23000,1,0,1,0
+7,13000,16,36,0,Secondary special education,2,1,1,16000,1,0,0,0
+9,33000,8,26,0,Secondary special education,0,0,1,36000,1,1,0,0
+9,17000,17,32,0,Higher education,0,0,1,26000,1,3,0,0
+8,34500,3,28,1,Secondary special education,1,0,2,31000,1,0,0,0
+9,35500,16,26,0,Higher education,1,0,1,31000,1,0,0,0
+5,25500,5,49,0,Higher education,1,0,0,66000,1,2,0,0
+8,10000,16,35,0,Secondary special education,1,0,1,29000,1,1,1,1
+3,32500,17,25,0,Secondary special education,1,1,0,38000,1,0,0,0
+5,23000,2,27,0,Secondary special education,1,0,1,26000,1,1,1,0
+4,19500,2,23,1,Secondary special education,1,1,1,26000,1,2,0,0
+5,23000,8,44,0,Higher education,1,1,8,51000,1,3,1,1
+2,13000,2,27,0,Incomplete higher education,0,0,1,43000,1,1,0,0
+1,30000,16,25,1,Secondary special education,1,1,2,31000,1,1,0,0
+2,19000,2,26,1,Secondary special education,1,1,1,16000,1,2,1,0
+3,28500,3,25,0,Secondary education,0,0,0,41000,1,2,1,0
+9,48500,5,49,1,Higher education,3,0,1,91000,1,1,0,0
+9,11000,3,37,0,Higher education,2,0,6,21000,1,2,1,1
+8,17000,2,38,0,Secondary education,0,0,7,21000,1,1,0,1
+10,21000,3,45,0,Secondary education,0,1,0,41000,0,1,0,0
+9,29000,4,21,1,Secondary education,1,1,2,31000,1,0,0,0
+3,25500,2,26,0,Secondary special education,0,0,1,27000,1,1,0,0
+1,42000,5,42,0,Secondary special education,1,0,7,36000,1,1,1,1
+5,9000,16,23,0,Incomplete higher education,0,0,0,23000,1,0,0,0
+6,8500,16,74,1,Higher education,3,0,1,16000,1,0,0,0
+10,157500,3,44,1,Secondary education,1,0,0,66000,0,0,0,0
+1,22500,6,36,0,Secondary special education,2,0,1,21000,0,0,0,0
+10,30000,16,20,0,Higher education,1,0,2,66000,1,1,0,0
+6,13500,12,32,0,Secondary special education,2,0,8,31000,0,1,1,1
+2,29000,3,29,0,Secondary special education,1,1,1,36000,1,0,1,0
+3,13000,16,64,0,Higher education,3,0,2,26000,1,2,0,0
+9,6000,2,46,0,Secondary special education,2,1,1,14000,1,2,0,0
+6,90000,3,56,0,Secondary special education,1,1,1,131000,1,0,1,1
+4,11000,3,30,0,Incomplete higher education,1,1,1,24000,1,1,1,0
+10,12500,3,28,0,Secondary special education,2,0,8,34000,0,2,0,1
+5,9500,7,40,0,Secondary special education,1,0,1,13000,1,1,1,0
+11,35500,3,27,0,Higher education,0,0,2,26000,1,3,0,0
+5,55000,5,29,0,Higher education,0,0,1,46000,1,1,0,0
+6,31500,3,34,0,Secondary special education,2,0,1,26000,0,0,0,0
+9,31500,9,31,1,Secondary special education,2,1,2,36000,1,3,0,0
+9,49000,3,25,0,Higher education,1,1,0,31000,1,1,0,0
+4,28000,3,21,0,Higher education,1,0,0,101000,1,2,0,0
+5,11500,7,33,0,Secondary special education,0,0,1,32000,1,2,1,0
+4,20000,7,28,0,Secondary special education,0,0,1,26000,1,2,0,0
+8,17500,12,34,0,Secondary special education,0,0,1,21000,1,3,0,0
+6,17500,5,28,0,Higher education,0,1,8,21000,1,0,1,1
+6,129000,6,24,0,Higher education,0,0,1,101000,1,0,0,0
+11,50500,12,35,0,Secondary special education,0,0,1,16000,1,1,1,0
+5,7000,16,36,0,Higher education,2,0,8,36000,0,1,1,1
+1,66000,7,35,0,Secondary special education,1,0,1,78000,1,1,0,0
+11,41000,4,36,0,Secondary special education,0,1,0,31000,0,1,0,0
+7,20000,5,29,0,Secondary special education,1,1,2,14000,1,2,1,0
+12,26000,16,35,0,Higher education,0,1,1,26000,1,2,0,0
+7,40000,16,31,0,Secondary special education,2,0,1,31000,1,1,0,0
+1,20000,17,31,0,Secondary education,0,1,2,16000,1,1,0,0
+2,16000,16,25,1,Secondary special education,1,0,0,31000,1,0,0,0
+6,60500,4,42,1,Secondary education,1,1,7,14000,1,1,1,1
+9,30500,8,52,0,Higher education,2,1,1,42000,1,2,0,0
+6,14500,2,72,0,Secondary special education,2,1,1,21000,1,0,0,0
+8,15500,2,44,0,Secondary special education,2,1,1,18000,0,3,0,0
+2,18000,4,42,1,Secondary special education,2,1,1,23000,0,0,0,0
+8,15000,8,24,0,Secondary special education,0,1,1,44000,1,1,0,0
+5,49500,2,49,0,Higher education,0,1,0,46000,0,1,0,0
+5,13500,8,25,1,Secondary special education,1,0,1,13000,1,1,0,0
+12,35500,16,39,1,Higher education,0,0,0,26000,0,1,0,0
+8,39500,17,31,0,Higher education,0,1,0,30000,1,1,0,0
+5,13500,8,59,1,Higher education,2,0,1,31000,1,2,0,0
+9,36000,17,27,0,Higher education,2,1,2,21000,0,0,1,1
+3,25000,16,31,1,Secondary special education,0,0,1,24000,1,1,0,0
+8,30500,16,38,1,Higher education,3,1,2,51000,0,0,0,0
+9,20500,3,21,0,Higher education,2,1,1,31000,0,2,0,0
+9,5500,16,30,0,Higher education,0,1,1,26000,1,3,0,0
+12,21000,3,29,0,Higher education,0,1,2,41000,1,1,0,0
+8,31500,3,24,0,Higher education,0,1,1,71000,1,0,0,0
+3,29000,10,25,0,Secondary special education,1,1,0,31000,1,1,0,0
+4,31000,6,44,0,Secondary special education,3,0,1,43000,1,1,0,0
+3,57500,3,34,0,Secondary education,0,1,1,36000,0,1,0,0
+2,106000,9,34,1,Higher education,2,0,1,49000,1,1,0,0
+11,28000,7,22,1,Secondary education,0,0,1,31000,1,1,0,0
+7,30000,16,44,0,Higher education,3,0,2,46000,0,3,0,0
+4,8500,7,48,1,Higher education,2,0,1,18000,0,0,0,0
+9,31500,3,34,1,Higher education,0,0,2,61000,1,0,0,0
+2,11000,3,45,0,Secondary special education,0,0,8,21000,2,1,1,1
+8,29500,2,38,0,Secondary special education,2,0,1,12000,0,3,0,0
+9,10000,17,39,1,Secondary special education,3,1,1,16000,1,1,0,0
+3,26000,16,27,0,Secondary special education,1,1,1,19000,1,1,0,0
+6,71500,4,25,0,Secondary special education,0,1,0,21000,1,1,0,0
+4,27500,3,50,1,Incomplete higher education,0,0,1,26000,0,2,0,0
+9,12500,3,26,0,Secondary education,0,0,1,21000,1,2,0,0
+2,41500,3,25,1,Higher education,2,1,1,44000,1,1,0,0
+3,34500,8,26,0,Higher education,3,1,6,41000,1,0,0,1
+11,19000,2,26,0,Secondary special education,2,0,2,16000,1,0,0,0
+3,19000,16,25,0,Secondary special education,3,0,6,41000,1,0,0,1
+5,29000,4,44,1,Higher education,1,0,1,31000,1,1,1,0
+12,19000,16,25,1,Secondary special education,0,1,7,21000,2,1,0,1
+6,15500,17,26,1,Secondary special education,1,0,1,26000,1,0,0,0
+10,27000,8,29,0,Secondary special education,1,1,1,17000,1,1,0,0
+11,8000,16,24,0,Secondary special education,0,1,2,20000,1,0,0,0
+8,48000,3,29,0,Secondary education,2,1,1,16000,0,3,0,0
+1,26000,3,35,0,Higher education,2,0,0,56000,0,1,0,0
+6,21000,2,44,1,Secondary special education,2,1,2,101000,1,0,0,0
+9,13000,3,30,0,Higher education,1,1,1,26000,1,1,0,0
+10,15000,5,28,1,Secondary special education,1,0,1,21000,1,1,1,0
+9,14500,2,35,0,Secondary special education,1,0,1,18000,1,0,1,0
+3,15000,17,33,0,Higher education,0,0,0,33000,0,1,0,0
+11,10000,6,38,0,Secondary special education,0,1,1,28000,1,2,1,1
+3,12000,5,35,0,Secondary special education,1,0,1,36000,1,1,0,0
+6,25000,3,21,0,Secondary special education,0,0,2,18000,1,1,0,0
+10,37000,2,37,0,Secondary special education,0,1,6,46000,1,2,0,1
+10,15000,4,27,0,Incomplete higher education,0,0,1,36000,1,2,1,0
+1,25000,6,52,1,Higher education,0,1,1,31000,0,0,0,0
+9,35000,2,40,0,Secondary special education,2,1,1,51000,0,2,0,0
+9,18000,7,23,1,Secondary education,1,1,1,101000,1,1,0,0
+7,16500,17,22,0,Incomplete higher education,0,1,0,26000,0,2,0,0
+7,41000,16,25,1,Incomplete higher education,1,1,7,21000,2,1,0,1
+2,22000,11,39,0,Higher education,2,0,1,51000,1,1,0,0
+8,20500,16,24,1,Incomplete secondary education,0,0,0,11000,1,3,0,0
+11,12000,3,24,0,Secondary special education,1,1,0,31000,1,3,0,0
+4,31500,3,59,0,Higher education,2,0,1,76000,1,1,0,0
+4,31500,3,51,0,Secondary special education,0,1,0,19000,0,2,0,0
+2,68000,7,39,0,Secondary special education,0,1,1,51000,0,2,0,0
+1,35500,16,34,0,Higher education,2,0,1,26000,0,3,0,0
+5,11500,6,35,0,Higher education,0,1,1,46000,1,0,0,0
+7,7500,6,36,1,Incomplete higher education,2,0,1,17000,0,1,0,0
+6,47500,5,31,0,Higher education,0,0,1,39000,1,1,0,0
+7,11500,9,52,1,PhD degree,0,1,1,21000,0,1,0,0
+9,14500,17,27,1,Higher education,0,0,1,26000,1,1,0,0
+6,19000,17,27,0,Secondary special education,0,0,1,36000,1,1,0,0
+7,8000,2,29,0,Secondary special education,1,0,1,31000,1,1,0,0
+3,10500,17,31,0,Secondary special education,1,0,1,21000,1,0,1,0
+8,14000,6,29,0,Secondary education,0,1,0,21000,1,2,1,0
+3,29500,4,37,0,Higher education,0,0,0,74000,0,2,0,0
+7,60500,5,42,0,Incomplete higher education,2,0,1,41000,0,0,0,0
+6,29500,2,29,0,Higher education,0,0,1,51000,1,1,0,0
+11,5000,2,37,1,Secondary special education,1,0,0,31000,1,1,0,0
+4,15000,16,44,0,Higher education,0,0,0,66000,1,3,0,0
+8,11000,16,31,0,Secondary special education,0,0,0,26000,0,1,0,0
+10,14500,2,35,0,Secondary special education,1,0,0,31000,0,0,0,0
+6,11500,10,41,0,Secondary special education,0,0,0,16000,0,3,0,0
+1,28500,5,30,1,Higher education,0,0,1,21000,1,0,0,0
+8,16500,7,37,0,Secondary special education,0,0,1,18000,1,0,0,0
+12,20500,16,22,0,Higher education,0,1,1,26000,1,0,0,0
+3,20500,2,47,0,Higher education,3,0,1,41000,1,1,0,0
+1,12000,17,43,1,Higher education,2,0,2,26000,1,0,0,0
+3,9000,2,23,1,Secondary education,0,1,0,38000,1,2,0,0
+2,23500,6,32,1,Higher education,2,1,1,31000,1,1,0,0
+7,82000,3,21,0,Higher education,0,0,2,46000,1,1,0,0
+5,15000,4,30,0,Secondary special education,0,0,1,19000,1,0,0,0
+3,6500,4,44,0,Secondary special education,0,0,1,16000,0,0,0,0
+7,48500,3,23,1,Secondary special education,1,1,0,26000,1,0,0,0
+3,49000,2,31,0,Secondary special education,1,0,1,66000,1,1,0,0
+9,11500,17,37,0,Secondary education,0,0,1,41000,1,4,1,0
+8,89000,16,44,0,Secondary special education,2,0,1,41000,0,0,0,0
+8,54500,16,26,0,Higher education,1,1,1,66000,1,1,1,0
+1,8500,16,50,1,Secondary education,2,1,1,21000,1,1,0,0
+8,33000,4,42,0,Higher education,1,0,2,36000,1,1,1,0
+1,36000,6,46,0,Secondary special education,0,1,1,40000,1,1,0,0
+5,54000,6,32,1,Higher education,0,0,1,51000,1,3,0,0
+6,52500,2,40,0,Secondary education,2,1,4,56000,0,2,1,1
+3,22500,5,23,0,Secondary education,1,1,0,61000,1,0,0,0
+4,25500,4,51,0,Higher education,2,1,1,19000,0,2,0,0
+10,9000,4,40,0,Higher education,0,1,1,41000,1,1,0,0
+1,20000,17,40,0,Secondary special education,2,1,2,21000,1,1,0,0
+3,13000,3,30,0,Secondary special education,1,1,1,25000,1,0,0,0
+12,127000,7,31,0,Higher education,1,1,0,66000,1,1,0,0
+5,37000,6,23,0,Higher education,2,1,1,31000,0,0,0,0
+3,57000,4,37,0,Higher education,0,1,1,31000,1,4,0,0
+9,73000,4,23,1,Higher education,1,0,1,28000,1,1,0,0
+4,8000,7,21,0,Higher education,1,0,2,14000,1,1,0,0
+1,13500,7,34,0,Secondary special education,0,0,2,26000,1,0,0,0
+10,39500,10,32,0,Higher education,1,1,0,20000,1,1,0,0
+5,7000,2,27,0,Secondary special education,1,0,1,16000,1,1,1,0
+5,8000,5,33,0,Secondary special education,0,1,1,19000,1,1,0,0
+1,101000,2,28,1,Higher education,1,0,0,96000,1,1,1,0
+1,8500,17,49,0,Secondary special education,2,0,1,25000,1,0,0,0
+12,103000,3,43,0,Higher education,0,1,0,36000,0,1,0,0
+9,25000,6,24,1,Secondary special education,1,0,0,24000,1,1,0,0
+1,28000,16,30,0,Higher education,1,0,1,31000,1,1,0,0
+11,8500,6,48,1,Secondary special education,2,0,1,26000,1,1,0,0
+7,58000,3,36,0,Secondary special education,1,1,2,41000,1,1,1,0
+6,7500,8,44,1,Secondary special education,1,1,0,20000,1,1,1,1
+2,20000,8,41,1,Secondary special education,2,0,1,16000,1,0,0,0
+7,32000,17,27,1,Secondary education,1,0,8,31000,1,0,0,1
+6,73000,16,21,1,Secondary special education,0,0,1,21000,1,0,1,0
+2,7500,2,22,1,Secondary special education,2,1,8,26000,0,1,1,1
+7,28000,16,52,0,Secondary special education,0,0,1,31000,0,1,0,0
+9,36000,2,21,0,Higher education,2,0,1,31000,1,2,0,0
+10,8000,16,42,1,Secondary special education,0,1,0,14000,0,0,0,0
+1,19500,17,27,0,Secondary special education,1,1,1,11000,1,2,0,0
+5,23500,7,43,0,Secondary special education,0,0,1,36000,1,2,0,0
+3,29500,2,28,1,Higher education,1,0,1,26000,1,0,0,0
+6,19500,6,41,1,Secondary special education,2,0,1,20000,0,3,0,1
+5,33000,5,50,0,Incomplete higher education,2,0,1,36000,0,1,0,0
+2,31000,17,30,0,Secondary special education,0,0,1,28000,1,0,1,1
+4,32000,4,27,0,Higher education,0,1,0,35000,1,3,0,0
+9,8000,16,35,0,Secondary special education,0,0,2,31000,1,0,1,0
+1,24000,17,51,0,Secondary special education,0,0,1,71000,0,1,0,0
+1,14500,16,41,1,Higher education,0,0,1,26000,0,1,0,0
+5,29000,16,46,0,Higher education,0,0,1,51000,0,0,0,0
+6,7000,3,41,1,Secondary special education,2,0,1,6000,1,2,0,0
+5,78000,2,26,0,Secondary special education,2,1,1,28000,1,4,0,0
+11,32000,4,30,0,Secondary special education,1,1,1,31000,1,0,1,0
+7,77000,16,22,0,Higher education,0,0,2,66000,1,0,0,0
+6,85000,16,36,1,Higher education,0,0,1,31000,0,1,0,0
+5,23500,4,31,0,Higher education,0,1,0,41000,1,0,0,0
+9,41000,6,25,0,Higher education,0,1,0,26000,1,3,1,1
+3,14500,16,35,1,Secondary special education,0,0,1,19000,1,0,0,0
+1,8000,2,25,1,Incomplete secondary education,3,0,7,21000,1,1,1,1
+1,25000,16,49,0,Higher education,2,0,1,16000,0,2,0,0
+7,40500,2,38,0,Higher education,0,1,1,21000,0,1,0,0
+2,38000,17,44,0,Higher education,0,1,1,36000,1,0,0,0
+3,23000,4,30,1,Secondary education,1,1,7,26000,1,2,0,1
+9,21000,3,21,1,Secondary education,0,0,1,41000,1,0,0,0
+3,11000,16,46,0,Secondary education,2,1,1,31000,0,0,0,0
+12,11000,16,50,0,Higher education,0,1,1,37000,0,0,0,0
+1,6500,3,24,0,Higher education,2,0,7,26000,0,0,1,1
+8,16500,3,28,0,Secondary special education,0,1,1,24000,1,2,0,0
+1,61000,16,46,1,Secondary education,0,1,0,16000,0,0,0,0
+2,12500,17,35,1,Secondary special education,2,1,0,16000,0,2,0,0
+7,16500,3,26,0,Secondary education,0,0,1,21000,1,0,1,1
+4,16500,16,61,0,Secondary special education,2,0,1,19000,1,2,0,0
+3,57500,9,34,1,Higher education,1,1,1,17000,1,1,1,0
+3,39000,5,22,1,Secondary special education,0,1,0,41000,1,0,0,0
+4,17000,6,29,1,Secondary education,0,0,1,17000,0,3,0,0
+2,6000,16,23,1,Secondary education,0,1,0,13000,1,1,0,0
+11,35500,8,30,0,Secondary special education,2,0,2,9000,0,0,0,0
+9,9500,4,24,1,Secondary special education,0,0,1,11000,1,0,0,0
+9,19500,5,44,0,Secondary special education,0,1,1,21000,1,1,0,0
+7,9500,5,37,0,Secondary special education,2,0,3,18000,1,2,0,0
+9,50500,17,39,1,Secondary education,0,0,0,34000,0,1,0,0
+9,7500,8,31,0,Secondary special education,1,0,1,26000,1,1,0,0
+11,201000,5,44,0,Secondary special education,2,0,1,41000,0,4,0,0
+8,24000,2,23,0,Secondary special education,1,0,1,26000,1,3,1,0
+8,14000,5,23,0,Secondary education,1,0,0,21000,1,1,0,0
+9,48000,4,47,0,Higher education,0,0,0,22000,1,0,0,0
+6,5000,6,44,0,Secondary special education,3,0,1,16000,0,1,0,0
+3,16000,4,63,1,Secondary special education,0,0,1,24000,0,1,0,0
+8,28500,16,23,1,Secondary special education,0,1,2,16000,1,1,0,0
+6,9000,3,24,0,Secondary special education,2,1,1,31000,1,0,0,0
+1,30000,2,27,1,Secondary special education,1,0,1,41000,1,0,1,0
+7,28500,16,25,0,Secondary special education,0,0,1,26000,1,1,0,0
+8,26500,16,27,1,Secondary education,1,0,0,36000,1,1,0,0
+4,18000,2,21,0,Secondary special education,0,1,1,10000,1,1,0,0
+7,26500,2,60,1,Higher education,0,0,1,56000,1,1,0,0
+3,31000,3,30,0,Secondary special education,2,0,1,31000,0,0,0,0
+9,9000,4,52,0,Secondary special education,0,0,1,19000,0,2,0,0
+6,9500,6,26,0,Secondary special education,1,0,1,26000,1,2,0,0
+6,9000,2,22,0,Higher education,0,0,1,21000,1,0,0,0
+9,8500,3,60,0,Secondary special education,3,1,1,10000,1,0,0,0
+3,12000,16,36,0,Secondary special education,2,0,1,13000,1,0,0,0
+10,9500,8,33,0,Secondary special education,0,1,1,24000,1,0,1,0
+4,20000,8,41,0,Secondary special education,0,1,0,41000,0,4,0,0
+5,25000,3,41,0,Secondary special education,0,1,0,36000,1,1,1,1
+7,42500,16,21,0,Higher education,0,0,0,40000,1,1,0,0
+1,84000,5,26,0,Secondary special education,0,1,0,27000,0,1,0,0
+3,15000,6,40,1,Higher education,2,0,8,36000,0,0,1,1
+5,121000,7,22,0,Higher education,0,1,0,21000,1,2,1,0
+12,45000,16,42,1,Higher education,0,1,0,51000,0,2,0,0
+3,15000,4,54,0,Incomplete higher education,2,1,1,16000,1,0,0,0
+12,6500,3,37,0,Incomplete higher education,0,0,1,26000,1,1,0,0
+1,101000,4,35,0,Secondary special education,2,1,1,33000,0,3,0,0
+7,13000,4,28,0,Secondary special education,1,1,0,36000,1,0,0,0
+3,13000,16,22,0,Secondary special education,1,1,1,16000,1,1,0,0
+11,5000,2,26,0,Secondary education,0,0,2,27000,1,0,0,0
+1,40500,3,27,0,Secondary special education,0,1,2,26000,1,1,0,0
+2,44500,2,27,0,Higher education,2,0,1,81000,0,3,0,0
+8,34500,5,39,0,Higher education,0,0,0,31000,0,2,0,0
+9,8500,2,44,0,Higher education,2,1,2,31000,0,0,0,0
+8,21500,16,23,0,Secondary special education,1,0,0,22000,1,1,0,0
+1,14500,4,24,1,Secondary special education,0,1,2,26000,1,2,0,0
+10,13000,16,25,1,Higher education,1,1,1,36000,1,0,0,0
+5,7500,6,32,1,Secondary special education,2,0,1,13000,0,0,0,0
