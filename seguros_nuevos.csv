@@ -1,0 +1,5 @@
+﻿edad,genero,imc,hijos,fumador,region
+25,masculino,27.2,1,no,sur
+46,femenino,24.6,2,no,oeste
+65,masculino,29.1,3,si,norte
+37,femenino,31,1,no,este
