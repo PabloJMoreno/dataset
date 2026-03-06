@@ -1,0 +1,39 @@
+,fecha,País_Destino!!,e-mail_C0ntacto#,Categoría_Prod ($),Observaciones_Libres!!!@#
+0,1996.07.10 AD at 15:08:56 PDT,U.S.A.,juan@gmail.com,Electrónica,¡¡Hola!! Visita http://site.com para + info 😊
+1,Thu Sep 25 10:36:28 2003,united states,pedro.perez@outlook,electronica,Texto con <html>etiquetas</html> y @usuario
+2,Thu Sep 25 10:36:28 BRST 2003,USA,maria@yahoo..com,ELECTRÓNICA,Muchos espacios    innecesarios   aquí.
+3,2003 10:36:28 BRST 25 Sep Thu,U S A,luis@ gmail.com,Electro,"Carácteres raros: ø, é, ñ, ü, ß..."
+4,Thu Sep 25 10:36:28 2003,España,ana@Hotmail.com,Hogar,1234567890: !#$%&/()=?¿
+5,Thu 10:36:28,espania,info@empresa.es,hogar,   Mensaje con   padding extraño   
+6,Thu 10:36,Spain,error@@web.com,HOGAR,https://t.co/abc #trending
+7,10:36,spain,test@domain,Home,Emojis y símbolos: 🚀🔥✨🌈
+8,Thu Sep 25 2003,Mex.,juan@gmail.com,Electrónica,Este es un texto corto
+9,Sep 25 2003,mexico,pedro.perez@outlook.com,electronica,¡¡¡Cuidado!!! con el <html>scam</html>.
+10,Sep 2003,México,MARIA@YAHOO.COM,Hogar,Correo: user@mail.com
+11,Sep,Méjico,luis@gmail.com,hogar,Texto con (paréntesis) y [corchetes]
+12,2003,U.K.,ana@hotmail.com,Ropa,¿Qué tal todo? :)
+13,2003-09-25,United Kingdom,info@empresa.es,ropa,Datos extraños: &*^%$#@
+14,2003-Sep-25,uk,juan@gmail.com,ROPA,   Espaciado      muy     irregular   
+15,25-Sep-2003,u.k,juan@gmail.com,Clothes,https://www.google.com ¡increíble!
+16,Sep-25-2003,Canada,pedro@gmail.com,Ropa,Texto con <html><b>negrita</b></html>
+17,09-25-2003,canadá,pedro@gmail.com,ropa,"Limpiando caracteres... ñ, á, é, í, ó, ú"
+18,10-09-2003,CANADA,lucia@web.com,Electrónica,URL: ftp://archivo.txt
+19,10-09-03,U.S.A.,lucia@web.com,electronica,Fin del ejemplo!!!
+20,2003.Sep.25,USA,jose@mail.com,Hogar,¡¡¡Atención!!!
+21,2003/09/25,Spain,jose@mail.com,hogar,Error 404: Not Found <html>...</html>
+22,2003 Sep 25,spain,jose@mail.com,Ropa,Texto plano simple
+23,2003 09 25,Mexico,jose@mail.com,ropa,Emojis: 💡🛠️
+24,10pm,mexico,user1@test.com,Electrónica,Puntuación!!! excesiva...
+25,12:00am,Canada,user1@test.com,electronica,https://twitter.com/user
+26,Sep 03,canadá,user2@test.com,Hogar,<html><body>Cuerpo de texto</body></html>
+27,Sep of 03,USA,user2@test.com,hogar,"Caracteres especiales: ñ, ç, à, ê"
+28,"Wed, July 10, 96",U.S.A.,user3@test.com,Ropa,Espacios al final     
+29,1996.07.10 AD at 15:08:56 PDT,Spain,user3@test.com,ropa,Texto con @menciones
+30,"Tuesday, April 12, 1952 AD 3:30:42pm PST",Spain,user4@test.com,Electrónica,¡¡¡Hola de nuevo!!!
+31,"November 5, 1994, 8:15:30 am EST",Mexico,user4@test.com,electronica,<html> <a href='link'>Link</a> </html>
+32,3rd of May 2001,Canada,user5@test.com,Hogar,Emojis 🏁🎌
+33,"5:50 AM on June 13, 1990",UK,user5@test.com,hogar,Texto sin mucho sentido...
+34,NULL,USA,user6@test.com,Ropa,https://dataprep.ai
+35,nan,Spain,user6@test.com,ropa,<html>limpieza de datos</html>
+36,I'm a little cat,Mexico,user7@test.com,Electrónica,Solo texto.
+37,This is Sep.,Canada,user7@test.com,Hogar,Fin.
